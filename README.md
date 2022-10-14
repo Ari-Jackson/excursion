@@ -4,4 +4,4 @@ This page is a [Codecademy](https://www.codecademy.com/) project for the [Git an
 
 | Project                                                        | Status       |
 | :-------                                                       | :----------- |
-| [Excursion](/Users/arijackson/projects/excursion/index.html)   | In Progress  |
+| [Excursion](/Users/arijackson/projects/excursion/index.html)   | Complete  |
